@@ -38,7 +38,7 @@ SPEC CHECKSUMS:
   flutter_inappwebview_ios: 97215cf7d4677db55df76782dbd2930c5e1c1ea0
   OrderedSet: aaeb196f7fef5a9edf55d89760da9176ad40b93c
   ScreenshotPreventing: 7057fd23cb00599ba265c0b166768e1e0cb3a0b0
-  url_launcher_ios: 6116280ddcfe98ab8820085d8d76ae7449447586
+  url_launcher_ios: 5334b05cef931de560670eeae103fd3e431ac3fe
 
 PODFILE CHECKSUM: 8b17280dc6da3e177e7a462dbae5a253e2dde6a4
 

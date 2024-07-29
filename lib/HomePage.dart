@@ -22,7 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return SafeArea(
         child: InAppWebView(
-            initialUrlRequest: URLRequest(url: WebUri("http://occo.pro:7021/")))
+            initialUrlRequest: URLRequest(url: WebUri("https://dashboard.aknan.app/")))
         //  InAppWebView(initialUrlRequest:
         //   URLRequest(url: WebUri("http://occo.pro:7021/")),
         //     initialSettings: settings,
